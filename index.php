@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Maria khrizzle Corpuz</h1>
+<h1>Maria Khrizzle Corpuz</h1>
 <h2>33-ITE-03</h2>
 <h3>3rd Year Summer</h3>
 </body>
