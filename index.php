@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<h1> Wendelyn po sabog!</h1>
 <h2>tae si patrick</h2>
 </body>
 </html>
