@@ -1,3 +1,1 @@
-# git-activity-corpuz
-first activity
-hello world
+# Maria Khrizzle Corpuz
